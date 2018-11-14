@@ -1,0 +1,35 @@
+#image {
+  border-color: white;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 50%;
+  width: 20%;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+#main {
+  color: #ffec8b;
+  background-color: #005682;
+  border-radius: 5%;
+  margin: 10px auto;
+  padding-top: 50px;
+  padding-right: -10px;
+  padding-bottom: 100px;
+  padding-left: 10px;
+}
+
+#img-caption {
+  text-align: center;
+  margin: 10px;
+  padding: 30px;
+}
